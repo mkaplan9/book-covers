@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Ragnarok: The Age of Fire and Gravel",
+        "author": "Ignatius Donnelly",
+        "year": 1883,
+        "keywords": ["sun", "earth", "moon", "geology"],
+        "cover_image": "earth-0.jpeg"
+    },
+    {
+        "title": "Practical Taxidermy",
+        "author": "Montague Browne",
+        "year": 1878,
+        "keywords": ["animals"],
+        "cover_image": "practical-taxidermy.jpeg"
+    },
+    {
+        "title": "Too Curious",
+        "author": "Edward J. Goodman",
+        "year": 1888,
+        "keywords": [],
+        "cover_image": "too-curious.jpeg"
+    }
+]
